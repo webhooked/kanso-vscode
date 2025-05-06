@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=webhooked.kanso-vscode)
+[![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=webhooked.kanso-theme)
 [![W3C](https://img.shields.io/badge/WCAG_2.1_|_AA-756891?logo=w3c&logoColor=fff&style=for-the-badge)](https://www.w3.org/TR/WCAG21/#contrast-minimum)
 
   <img src="kanso.png" width="1000" />
@@ -35,7 +35,7 @@
 ## 📦 Installation
 
 1. Open **Extensions** in VS Code (`Ctrl+Shift+X` / `Cmd+Shift+X`)
-2. Search for `Kansō`
+2. Search for `Kanso Theme`
 3. Click **Install**
 4. Go to **File > Preferences > Color Theme** and select one of the Kansō variants
 
