@@ -69,7 +69,7 @@
 		"editorHoverWidget.border": "#24262D",
 		"editorOverviewRuler.border": "#14171d",
 		"editor.hoverHighlightBackground": "#24262Dfe",
-		"editorIndentGuide.activeBackground1": "#24262D",
+		"editorIndentGuide.activeBackground1": "#393B42",
 		"editorIndentGuide.background1": "#24262D",
 		"editorLineNumber.activeForeground": "#c5c9c7",
 		"editorLineNumber.foreground": "#5C6066",
