@@ -1,61 +1,63 @@
 {
-	"categories": ["Themes"],
-	"contributes": {
-		"themes": [
-			{
-				"label": "Kanso Zen",
-				"uiTheme": "vs-dark",
-				"path": "./themes/kanso-zen.json"
-			},
-			{
-				"label": "Kanso Ink",
-				"uiTheme": "vs-dark",
-				"path": "./themes/kanso-ink.json"
-			},
-			{
-				"label": "Kanso Mist",
-				"uiTheme": "vs-dark",
-				"path": "./themes/kanso-mist.json"
-			},
-			{
-				"label": "Kanso Pearl",
-				"uiTheme": "vs",
-				"path": "./themes/kanso-pearl.json"
-			}
-		]
-	},
-	"description": "A dark theme that invites focus, not attention. Inspired by the Kanagawa color theme.",
-	"devDependencies": {
-		"@vscode/vsce": "^3.2.1"
-	},
-	"displayName": "Kanso Theme",
-	"engines": {
-		"vscode": "^1.77.0"
-	},
-	"homepage": "https://github.com/webhooked/kanso-vscode",
-	"icon": "icon.png",
-	"keywords": [
-		"kanso",
-		"kanagawa",
-		"color",
-		"theme",
-		"vscode",
-		"dark",
-		"light",
-		"zen",
-		"ink",
-		"pearl"
-	],
-	"license": "MIT",
-	"name": "kanso-theme",
-	"publisher": "Webhooked",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/webhooked/kanso-vscode"
-	},
-	"scripts": {
-		"package": "vsce package",
-		"publish": "vsce publish"
-	},
-	"version": "0.2.0"
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kanso Zen",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kanso-zen.json"
+      },
+      {
+        "label": "Kanso Ink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kanso-ink.json"
+      },
+      {
+        "label": "Kanso Mist",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kanso-mist.json"
+      },
+      {
+        "label": "Kanso Pearl",
+        "uiTheme": "vs",
+        "path": "./themes/kanso-pearl.json"
+      }
+    ]
+  },
+  "description": "A dark theme that invites focus, not attention. Inspired by the Kanagawa color theme.",
+  "devDependencies": {
+    "@vscode/vsce": "^3.2.1"
+  },
+  "displayName": "Kanso Theme",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "homepage": "https://github.com/webhooked/kanso-vscode",
+  "icon": "icon.png",
+  "keywords": [
+    "kanso",
+    "kanagawa",
+    "color",
+    "theme",
+    "vscode",
+    "dark",
+    "light",
+    "zen",
+    "ink",
+    "pearl"
+  ],
+  "license": "MIT",
+  "name": "kanso-theme",
+  "publisher": "Webhooked",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webhooked/kanso-vscode"
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "version": "0.2.1"
 }
